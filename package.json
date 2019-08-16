@@ -1,0 +1,33 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "players-schema.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test-watch": "jest --watchAll --verbose"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "fs-extra": "^8.1.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "jest": "^24.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilbonito/401-lab-04.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lilbonito/401-lab-04/issues"
+  },
+  "homepage": "https://github.com/lilbonito/401-lab-04#readme"
+}
