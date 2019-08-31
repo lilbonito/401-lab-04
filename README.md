@@ -5,8 +5,8 @@
 ### Author: Josh Nebe
 
 ### Links and Resources
-* [submission PR](https://github.com/yosh-401-advanced-javascript/401-lab-04/pull/1)
-* [travis](https://travis-ci.com/yosh-401-advanced-javascript/401-lab-04.svg?branch=master)
+* [submission PR](https://github.com/https://github.com/lilbonito/401-lab-04/pull/1)
+
 
 
 ### Modules
